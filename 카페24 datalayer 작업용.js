@@ -81,6 +81,7 @@ function() {
 	return orderId;
 }
 
+
 // funnel 4 variable - 주문완료 - 배송비
 function() {
   var source = EC_FRONT_EXTERNAL_SCRIPT_VARIABLE_DATA;
